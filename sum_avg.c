@@ -11,6 +11,7 @@ int main()
         i++;
 
     }
+    
     avg= sum/6;
     printf("\nSum= %d\nAvg= %f", sum, avg);
     return 0;
